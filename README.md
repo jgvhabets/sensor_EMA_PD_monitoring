@@ -29,14 +29,16 @@ Date in format _yyyymmdd_
 
 Time in format hhmmss.
 
-# Every filename is the starting timestamp of the file. Every file is recorded with 200 Hz sample frequency.
+# Explanation file structure
 
-# Sensors recorded when not charging. When recording period passed 00.00, a new file was created.
+Every filename is the starting timestamp of the file. Every file is recorded with 200 Hz sample frequency.
 
-# For example code how to extract and analyse the elf-files, see GitHub / jgvhabets / sensor_EMA_PD_monitoring.
+Sensors recorded when not charging. When recording period passed 00.00, a new file was created.
 
-# Explanation about EMA data xlsx file attached to Dataverse repository.
+For example code how to extract and analyse the elf-files, see GitHub / jgvhabets / sensor_EMA_PD_monitoring.
 
-# For further questions: j.habets@maastrichtuniversity.nl, or jgvhabets@gmail.com
+Explanation about EMA data xlsx file attached to Dataverse repository.
+
+For further questions: j.habets@maastrichtuniversity.nl, or jgvhabets@gmail.com
 
  
