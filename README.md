@@ -2,7 +2,8 @@
 Code to test technical validity of public data set containing objective wearable sensor (accelerometer and gyroscope) data and subjective EMA (ecological momentary assessment) data.
 READ ME
 
-Habets, Jeroen; Kubben, Pieter, 2020, "EMA and wearable sensor monitoring in PD", https://doi.org/10.34894/5HHK8H, DataverseNL.
+Data repository: Habets, Jeroen; Kubben, Pieter, 2020, "EMA and wearable sensor monitoring in PD", https://doi.org/10.34894/5HHK8H, DataverseNL.
+Published Data Descriptor in DATA, Feb 23, 2021: https://www.mdpi.com/2306-5729/6/2/22 
 
 # Please cite data descriptor when using data.
 
